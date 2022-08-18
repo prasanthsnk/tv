@@ -1,9 +1,18 @@
 {
-	"Menu": {
-		"Malayalam": "https://iptv-org.github.io/iptv/languages/mal.m3u",
-		"Tamil": "https://iptv-org.github.io/iptv/languages/tam.m3u",
-		"Hindi": "https://iptv-org.github.io/iptv/languages/hin.m3u",
-		"All": "https://iptv-org.github.io/iptv/index.m3u",
-		"All_IAC": "https://iptv-org.github.io/iptv/index.nsfw.m3u"
-	}
+	"Menu": [{
+		"language": "Malayalam",
+		"url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
+	}, {
+		"language": "Tamil",
+		"url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
+	}, {
+		"language": "Hindi",
+		"url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+	}, {
+		"language": "All",
+		"url": "https://iptv-org.github.io/iptv/index.m3u"
+	}, {
+		"language": "All_IAC",
+		"url": "https://iptv-org.github.io/iptv/index.nsfw.m3u"
+	}]
 }
