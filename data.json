@@ -1,18 +1,18 @@
 {
 	"Menu": [{
-		"language": "Malayalam",
+		"type": "Malayalam",
 		"url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
 	}, {
-		"language": "Tamil",
+		"type": "Tamil",
 		"url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
 	}, {
-		"language": "Hindi",
+		"type": "Hindi",
 		"url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
 	}, {
-		"language": "All",
+		"type": "All",
 		"url": "https://iptv-org.github.io/iptv/index.m3u"
 	}, {
-		"language": "All_IAC",
+		"type": "All_IAC",
 		"url": "https://iptv-org.github.io/iptv/index.nsfw.m3u"
 	}]
 }
