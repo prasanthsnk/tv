@@ -16,6 +16,10 @@
 			"url": "https://iptv-org.github.io/iptv/countries/in.m3u"
 		},
 		{
+			"type": "Worldwide",
+			"url": "https://iptv-org.github.io/iptv/regions/int.m3u"
+		},
+		{
 			"type": "All",
 			"url": "https://iptv-org.github.io/iptv/index.m3u"
 		},
