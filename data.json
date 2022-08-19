@@ -16,6 +16,10 @@
 			"url": "https://iptv-org.github.io/iptv/countries/in.m3u"
 		},
 		{
+			"type": "Custom",
+			"url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_details.json"
+		},
+		{
 			"type": "Worldwide",
 			"url": "https://iptv-org.github.io/iptv/regions/int.m3u"
 		},
