@@ -17,7 +17,7 @@
 		"channelDrmType": ""
 	},{
 		"channelName": "HBO HD_ hh",
-		"channelUrl": "http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1230.m3u8",
+		"channelUrl": "https://cdn.jp.jpnettv.live/jptv/kansi_sun_tv_720/chunklist_w252826700.m3u8",
 		"channelImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
 		"channelGroup": "Movies English",
 		"channelDrmKey": "",
