@@ -1,0 +1,564 @@
+[
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png",
+        "channelName": "AUS TAMIL",
+        "channelUrl": "https: //bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://www.tamilvision.tv/Images/logo.png",
+        "channelName": "TAMIL VISION TV",
+        "channelUrl": "http: //live.tamilvision.tv:8081/TVI/HD/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png",
+        "channelName": "ADHAVAN HD TV",
+        "channelUrl": "http: //45.77.66.224:1935/athavantv/live/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png",
+        "channelName": "IBC TAMIL",
+        "channelUrl": "https: //ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://assets.zoftcdn.com/branding/ibctv/ibc-music.png",
+        "channelName": "IBC MUSIC",
+        "channelUrl": "https: //ibcmusic-live.ibctamil.com/transcode/music_std.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png",
+        "channelName": "IBC COMEDY",
+        "channelUrl": "https: //ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8"
+    },
+    {
+        "channelImg": "http://saalaitv.com/logo/IBCPAKIDI.png",
+        "channelGroup": "Kids",
+        "channelName": "IBC Kids Tamil",
+        "channelUrl": "https: //ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png",
+        "channelName": "3 TAMIL",
+        "channelUrl": "https: //6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/i9ct2MX.png",
+        "channelGroup": "Local",
+        "channelName": "Rasi TV",
+        "channelUrl": "http: //singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/vqtHzOL.jpg",
+        "channelGroup": "Local",
+        "channelName": "Rasi Movies",
+        "channelUrl": "http: //singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/vqtHzOL.jpg",
+        "channelGroup": "Local",
+        "channelName": "Rasi Classic",
+        "channelUrl": "http: //singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://i.imgur.com/EaHWWNl.jpg",
+        "channelName": "7Star TV",
+        "channelUrl": "http: //media.7starcloud.com:1935/live/7star/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://i.imgur.com/6GxuWXT.png",
+        "channelName": "Sana Plus",
+        "channelUrl": "http: //media.7starcloud.com:1935/live/sanatv2/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://i.imgur.com/zAQSZeC.png",
+        "channelName": "Sana TV",
+        "channelUrl": "http: //7starcloud.com:1935/sanatv/sanatv/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://i.imgur.com/0ApLXUi.png",
+        "channelName": "Thalapathy TV",
+        "channelUrl": "http: //7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelName": "Aarya Premiere",
+        "channelUrl": "http: //7starcloud.com:1935/aarya/aaryalive/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelName": "Tirumalai TV KARUR",
+        "channelUrl": "http: //media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://i.imgur.com/QXV7bn4.png",
+        "channelName": "Sigaram TV",
+        "channelUrl": "http: //7starcloud.com:1935/sigaram/sigaramtv/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://i.imgur.com/9J5HJuI.png",
+        "channelName": "Vani TV",
+        "channelUrl": "http: //7starcloud.com:1935/vanitv/livemedia/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelName": "Arasan TV",
+        "channelUrl": "http: //ammacable.com:1935/acn/arasantv/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://7starcloud.in/ACNCINEMA.png",
+        "channelName": "ACN Cinema",
+        "channelUrl": "http: //ammacable.com:1935/acn/acncinema/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://abcmedias.com/ACNMUSICLOGO_V2_00000.png",
+        "channelName": "ACN Music",
+        "channelUrl": "http: //ammacable.com:1935/acn/acnmusic/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelName": "Amma Channel",
+        "channelUrl": "http: //ammacable.com:1935/acn/ammachannel/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelName": "AKARAM TV",
+        "channelUrl": "http: //akaram.zecast.net/akaram-live/akaramnew2/index.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/4sOEcez.png",
+        "channelGroup": "Local",
+        "channelName": "Vathanam TV ",
+        "channelUrl": "http: //95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://i.imgur.com/3IzVcjg.png",
+        "channelName": "Pakalavan TV",
+        "channelUrl": "https: //player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",
+        "channelName": "MK Six",
+        "channelUrl": "http: //103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png",
+        "channelName": "MK Tunes",
+        "channelUrl": "http: //103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png",
+        "channelName": "MK TV",
+        "channelUrl": "http: //103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8"
+    },
+    {
+        "channelImg": "http://mhdtvworld.com/wp-content/uploads/2018/11/analaiexpress1.jpg",
+        "channelGroup": "Local",
+        "channelName": "Analai Express HD",
+        "channelUrl": "https: //eu.streamjo.com/sarastv/sarastv.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/TIc76op.png",
+        "channelGroup": "Local",
+        "channelName": "Deepam TV",
+        "channelUrl": "http: //95.217.218.87/deepamtvhls/live.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/f7J37yv.png",
+        "channelGroup": "Local",
+        "channelName": "EET TV",
+        "channelUrl": "https: //eu.streamjo.com/eetlive/eettv.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/ExYV0nb.png",
+        "channelGroup": "Local",
+        "channelName": "TET TV",
+        "channelUrl": "http: //206.47.41.166:8080/1.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://www.worldtamil.tv/img/logo.png",
+        "channelName": "WORLD TAMIL TV",
+        "channelUrl": "http: //185.105.4.244:1935/wtt/wttv/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://haritv.com/images/logo.png",
+        "channelName": "HARI TV",
+        "channelUrl": "http: //media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://sangamamtv.com/images/logo%20header%20banner.png",
+        "channelName": "Sangamam HD",
+        "channelUrl": "http: //livematrix.in:1935/live/sangamamtv/playlist.m3u8"
+    },
+    {
+        "channelImg": "http://4.bp.blogspot.com/-41QZC8uLrhU/XpVHgu1iFPI/AAAAAAAAABs/f2BhvPl7SNweMSfGGhybCQcjrJLp6QcbwCK4BGAYYCw/s920/512x512%2BSooriyanTV.png",
+        "channelGroup": "Local",
+        "channelName": "Suriyan TV",
+        "channelUrl": "http: //59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/index.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/kKFfLMd.jpg",
+        "channelGroup": "Local",
+        "channelName": "Santhora Short Flim",
+        "channelUrl": "http: //rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",
+        "channelName": "Santhora TV",
+        "channelUrl": "http: //rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8"
+    },
+    {
+        "channelImg": "http://mntv.in/style/images/logo-dark.png",
+        "channelGroup": "Local",
+        "channelName": "Marutam TV",
+        "channelUrl": "http: //mntv.livebox.co.in/mntvhls/mntv.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://www.jawaharchannel.in/SEPERATE%20FOLDER/01%20HEADER/Leaf%20Logo.png",
+        "channelName": "JAWAHAR TV",
+        "channelUrl": "http: //streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://static.ultramaxnet.com/images/utv_720p_d2.png",
+        "channelName": "ULTRAMAX TAMIL",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://static.ultramaxnet.com/images/ammatvvdr_logo.jpeg",
+        "channelName": "AMMA TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg",
+        "channelName": "JEEVAN TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://static.ultramaxnet.com/images/kavin_tv_logo.jpeg",
+        "channelName": "KAVIN TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://site1.ultramaxnet.com/client/ultramax/images/kanaatvnew.jpg",
+        "channelName": "KANA TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kanaatv123_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://site1.ultramaxnet.com/client/ultramax/images/kvmtv.jpg",
+        "channelName": "KVM TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1",
+        "channelName": "SIGARAM TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://static.ultramaxnet.com/images/nanban_tv_logo.png?v=1",
+        "channelName": "NANBAN TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nanbantv_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://www.erodesrikrishnatv.com/images/logo.png",
+        "channelName": "SRI KRISHNA TV",
+        "channelUrl": "http: //media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://www.meenakshitv.in/images/logo.png",
+        "channelName": "MEENAKSHI TV",
+        "channelUrl": "https: //stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8"
+    },
+    {
+        "channelImg": "http://www.moontvlive.com/images/logo.png",
+        "channelGroup": "Local",
+        "channelName": "Moon TV",
+        "channelUrl": "http: //player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://static.ultramaxnet.com/images/kathir_tv_logo.png",
+        "channelName": "KADHIR TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kathirtv123_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://erodercntv.com/wp-content/themes/rcn_theme/images/logo.png",
+        "channelName": "RCN TV",
+        "channelUrl": "https: //5c75277727cd1.streamlock.net/rcntv/rcntv/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://site1.ultramaxnet.com/client/ultramax/images/jayamtv.jpg",
+        "channelName": "JAYAM TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://via.placeholder.com/640x360.png?text=JEYAM+TV",
+        "channelName": "JEYAM TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeyamtv321_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://static.ultramaxnet.com/images/vedha_tv_logo.jpeg",
+        "channelName": "VEDA TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/vedhatv_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png",
+        "channelName": "VASANTHAM TV",
+        "channelUrl": "http: //cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://via.placeholder.com/640x360.png?text=Nila+Tv",
+        "channelName": "NILA TV",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nilatv321_low/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "www.bharathitv.com/images/logo.png",
+        "channelName": "BARATHI TV",
+        "channelUrl": "http: //182.75.50.131:1935/live/bharathi/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://www.aasaitvlive.in/img/aasai_tv.png",
+        "channelName": "AASAI TV",
+        "channelUrl": "http: //osaitv.livebox.co.in/osaihls/live.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://static.ultramaxnet.com/images/news80tamil_tv_logo.jpeg",
+        "channelName": "News 80 TAMIL",
+        "channelUrl": "https: //secure.ultramaxnet.com/client/hls/ultramax-app-v1975/news80tamil_low/index.m3u8"
+    },
+    {
+        "channelImg": "https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif",
+        "channelGroup": "Local",
+        "channelName": "VANAVIL",
+        "channelUrl": "https: //6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "http://www.vanaviltv.in/images/PLUS1_001_00299.png",
+        "channelName": "Vanavil Plus TV",
+        "channelUrl": "http: //45.79.203.234:1935/vanavil/myStream/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://i.ytimg.com/vi/R-ZPWaVxX8M/hqdefault.jpg",
+        "channelName": "VIDIYAL TV",
+        "channelUrl": "http: //account7.livebox.co.in/vidiyaltvhls/live.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/ABvVSga.png",
+        "channelGroup": "Local",
+        "channelName": "Akaram Kidz",
+        "channelUrl": "http: //akaram.zecast.net/akaram-live/akaramkidz/index.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/ABvVSga.png",
+        "channelGroup": "Local",
+        "channelName": "Akaram Mix",
+        "channelUrl": "http: //akaram.zecast.net/akaram-live/akarammix1/index.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelName": "AKARAM Gallata TV",
+        "channelUrl": "http: //akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/MYZ6EXU.png",
+        "channelGroup": "Local",
+        "channelName": "Kalaignar TV ",
+        "channelUrl": "http: //103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8"
+    },
+    {
+        "channelImg": "http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png",
+        "channelGroup": "Local",
+        "channelName": "Raj TV",
+        "channelUrl": "http: //103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/Dwfiylo.png",
+        "channelGroup": "Local",
+        "channelName": "Tamil Business TV (DE)",
+        "channelUrl": "http: //rtmp.santhoratv.zecast.net/tamilbusinesstv//tamilbusinesstv/playlist.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/MHH6UNS.png",
+        "channelGroup": "Local",
+        "channelName": "Thanthi TV",
+        "channelUrl": "https: //vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/ns2x7ws.png",
+        "channelGroup": "Local",
+        "channelName": "Yupp TV Tamil Classics ",
+        "channelUrl": "https: //d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelName": "Nam TV ",
+        "channelUrl": "http: //nextgeninfotech.ddns.net:8080/ntv/ntv.m3u8"
+    },
+    {
+        "channelImg": "",
+        "channelGroup": "Local",
+        "channelName": "Jay TV",
+        "channelUrl": "http: //livematrix.in:1935/live/jay/index.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/YeR3mm9.png",
+        "channelGroup": "Local",
+        "channelName": "Velicham TV",
+        "channelUrl": "https: //rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/3APPmFw.png",
+        "channelGroup": "Local",
+        "channelName": "CSK TV HD",
+        "channelUrl": "http: //185.105.4.244:1935/livesp/csktv1/playlist.m3u8"
+    },
+    {
+        "channelImg": "https://i.imgur.com/FigDbPo.png",
+        "channelGroup": "Local",
+        "channelName": "SD Media",
+        "channelUrl": "http: //7starcloud.com:1935/sd/sdmedia/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelName": "Aarya Premiere",
+        "channelUrl": "http: //7starcloud.com:1935/aarya/aaryalive/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Music",
+        "channelImg": "https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg",
+        "channelName": "7S MUSIC TV ",
+        "channelUrl": "https: //m-c049-j2apps.s.llnwi.net/hls/1493.7SMusic.in_360p/index.m3u8"
+    },
+    {
+        "channelGroup": "Music",
+        "channelImg": "https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg",
+        "channelName": "ISAIARUVI",
+        "channelUrl": "https: //m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8"
+    },
+    {
+        "channelGroup": "Music",
+        "channelImg": "https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg",
+        "channelName": "CAPTAIN TV",
+        "channelUrl": "https: //m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8"
+    },
+    {
+        "channelGroup": "Music",
+        "channelImg": "https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg",
+        "channelName": "VENDHAR TV",
+        "channelUrl": "https: //m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8"
+    },
+    {
+        "channelGroup": "Music",
+        "channelImg": "https://j2apps.s.llnwi.net/isa1/pic/3731.Tunes6.in/en/1x1/208x208/test_pic1552387113014.jpg",
+        "channelName": "TUNE 6",
+        "channelUrl": "https: //m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8"
+    },
+    {
+        "channelGroup": "Local",
+        "channelImg": "https://dheeran.tv/img/1.png",
+        "channelName": "DHEERAN TV",
+        "channelUrl": "https: //5c75277727cd1.streamlock.net/dheeran/dheeran/playlist.m3u8"
+    },
+    {
+        "channelGroup": "News",
+        "channelImg": "https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",
+        "channelName": "News 18 TAMIL",
+        "channelUrl": "https: //news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8"
+    },
+    {
+        "channelGroup": "Devotional",
+        "channelImg": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",
+        "channelName": "Madha TV",
+        "channelUrl": "http: //103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8"
+    },
+    {
+        "channelGroup": "Devotional",
+        "channelImg": "https://www.blessingtv.tv/images/all_images/14579702231.png",
+        "channelName": "Aasirvadham TV",
+        "channelUrl": "http: //199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8"
+    },
+    {
+        "channelGroup": "Devotional",
+        "channelImg": "https://assets.zoftcdn.com/branding/ibctv/ibc-bakthi.png",
+        "channelName": "IBC Bakthi",
+        "channelUrl": "https: //ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi.m3u8"
+    },
+    {
+        "channelGroup": "Devotional",
+        "channelImg": "https://assets.zoftcdn.com/branding/ibctv/ibc-siluvaii.png",
+        "channelName": "IBC Siluvai",
+        "channelUrl": "https: //ibcsiluvai-live.ibctamil.com/transcode/ibcsiluvai.m3u8"
+    },
+    {
+        "channelGroup": "Entertainment",
+        "channelImg": "https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png",
+        "channelName": "IBC Tamil Canada",
+        "channelUrl": "ttps: //ibctamilcanada-live.ibctamil.com/transcode/ibccanada.m3u8"
+    },
+    {
+        "channelGroup": "Devotional",
+        "channelImg": "https://i.imgur.com/IKiNKDu.png",
+        "channelName": "Imayam TV",
+        "channelUrl": "https: //5c75277727cd1.streamlock.net:443/imayamtv/imayamtv/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Entertainment",
+        "channelImg": "https://i.imgur.com/mrvGGKY.png",
+        "channelName": "Kollywood TV",
+        "channelUrl": "https: //m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8"
+    },
+    {
+        "channelGroup": "News",
+        "channelImg": "https://i.imgur.com/uFiHtQX.png",
+        "channelName": "Malaimurasu",
+        "channelUrl": "https: //malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8"
+    },
+    {
+        "channelGroup": "Entertainment",
+        "channelImg": "https://i.imgur.com/XMAqb0H.png",
+        "channelName": "Peppers TV",
+        "channelUrl": "https: //live.wmncdn.net/peppers/live.stream/index.m3u8"
+    }
+]
