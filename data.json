@@ -8,10 +8,6 @@
 			"url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
 		},
 		{
-			"type": "Tamil Local",
-			"url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/Tamil_Local.json"
-		},
-		{
 			"type": "Hindi",
 			"url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
 		},
