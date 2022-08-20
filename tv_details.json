@@ -16,8 +16,8 @@
 		"channelDrmKey": "",
 		"channelDrmType": ""
 	},{
-		"channelName": "HBO HD",
-		"channelUrl": "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+		"channelName": "HBO HD_ hh",
+		"channelUrl": "http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/chunklist_w65972152.m3u8",
 		"channelImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
 		"channelGroup": "Movies English",
 		"channelDrmKey": "",
