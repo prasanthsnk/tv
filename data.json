@@ -8,6 +8,10 @@
 			"url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
 		},
 		{
+			"type": "Tamil Local",
+			"url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/Tamil_Local.json"
+		},
+		{
 			"type": "Hindi",
 			"url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
 		},
@@ -31,6 +35,9 @@
 			"type": "All_IAC",
 			"url": "https://iptv-org.github.io/iptv/index.m3u"
 		},
-{"type":"YouTube","url":"https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"}
+		{
+			"type": "YouTube",
+			"url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
+		}
 	]
 }
