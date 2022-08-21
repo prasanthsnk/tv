@@ -31,7 +31,7 @@
 			"type": "All_IAC",
 			"url": "https://iptv-org.github.io/iptv/index.m3u"
 		},
-{"type":"new"",url":"https://freeiptvserver.info/dl/ad-freeiptvservercom-09-08-2020.m3u"},
+{"type":"new",url":"https://freeiptvserver.info/dl/ad-freeiptvservercom-09-08-2020.m3u"},
 		{
 			"type": "YouTube",
 			"url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
