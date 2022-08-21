@@ -36,6 +36,14 @@
 			"url": "https://freeiptvserver.info/dl/ad-freeiptvservercom-09-08-2020.m3u"
 		},
 		{
+			"type": "Category",
+			"url": "https://iptv-org.github.io/iptv/index.category.m3u"
+		},
+			 {
+			"type": "Country",
+			"url": "https://iptv-org.github.io/iptv/index.country.m3u"
+		},
+		{
 			"type": "YouTube",
 			"url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
 		}
