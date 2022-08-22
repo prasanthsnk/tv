@@ -31,7 +31,6 @@
 			"type": "Region",
 			"url": "https://iptv-org.github.io/iptv/index.region.m3u"
 		},
-
 		{
 			"type": "Worldwide",
 			"url": "https://iptv-org.github.io/iptv/regions/int.m3u"
@@ -42,6 +41,10 @@
 		},
 		{
 			"type": "All_IAC",
+			"url": "https://iptv-org.github.io/iptv/index.m3u"
+		},
+		{
+			"type": "XStream",
 			"url": "https://iptv-org.github.io/iptv/index.m3u"
 		},
 		{
