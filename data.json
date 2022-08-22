@@ -41,11 +41,11 @@
 		},
 		{
 			"type": "All_IAC",
-			"url": "https://iptv-org.github.io/iptv/index.m3u"
+			"url": "https://iptv-org.github.io/iptv/index.nsfw.m3u"
 		},
 		{
 			"type": "XStream",
-			"url": "https://iptv-org.github.io/iptv/index.m3u"
+			"url": "https://iptv-org.github.io/iptv/categories/xxx.m3u"
 		},
 		{
 			"type": "Custom",
