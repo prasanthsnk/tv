@@ -17,6 +17,10 @@
             "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
         },
         {
+            "type": "Animation",
+            "url": "https://iptv-org.github.io/iptv/categories/animation.m3u"
+        },
+        {
             "type": "Category",
             "url": "https://iptv-org.github.io/iptv/index.category.m3u"
         },
