@@ -13,6 +13,10 @@
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
         },
         {
+            "type": "Custom",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_details.json"
+        },
+        {
             "type": "Indian",
             "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
         },
@@ -122,7 +126,7 @@
         },
         {
             "type": "Weather",
-            "url": "https://iptv-org.github.io/iptv/categories/Weather.m3u"
+            "url": "https://iptv-org.github.io/iptv/categories/weather.m3u"
         }
     ]
 }
