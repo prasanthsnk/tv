@@ -1,2 +1,16 @@
 {
+    "menu": [
+        {
+            "type": "Malayalam",
+            "url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
+        },
+        {
+            "type": "Tamil",
+            "url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
+        },
+        {
+            "type": "Hindi",
+            "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+        }
+    ]
 }
