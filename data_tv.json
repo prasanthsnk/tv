@@ -21,6 +21,18 @@
             "url": "https://iptv-org.github.io/iptv/categories/kids.m3u"
         },
         {
+            "type": "Auto",
+            "url": "https://iptv-org.github.io/iptv/categories/auto.m3u"
+        },
+        {
+            "type": "Cooking",
+            "url": "https://iptv-org.github.io/iptv/categories/cooking.m3u"
+        },
+        {
+            "type": "Sports",
+            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+        },
+        {
             "type": "Custom",
             "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_details.json"
         }
