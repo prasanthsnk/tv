@@ -11,6 +11,18 @@
         {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+        },
+        {
+            "type": "Animation",
+            "url": "https://iptv-org.github.io/iptv/categories/animation.m3u"
+        },
+        {
+            "type": "Kids",
+            "url": "https://iptv-org.github.io/iptv/categories/kids.m3u"
+        },
+        {
+            "type": "Custom",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_details.json"
         }
     ]
 }
