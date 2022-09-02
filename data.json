@@ -11,46 +11,6 @@
         {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
-        },
-        {
-            "type": "Indian",
-            "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
-        },
-        {
-            "type": "Animation",
-            "url": "https://iptv-org.github.io/iptv/categories/animation.m3u"
-        },
-        {
-            "type": "Kids",
-            "url": "https://iptv-org.github.io/iptv/categories/kids.m3u"
-        },
-        {
-            "type": "Category",
-            "url": "https://iptv-org.github.io/iptv/index.category.m3u"
-        },
-        {
-            "type": "Country",
-            "url": "https://iptv-org.github.io/iptv/index.country.m3u"
-        },
-        {
-            "type": "Language",
-            "url": "https://iptv-org.github.io/iptv/index.language.m3u"
-        },
-        {
-            "type": "Region",
-            "url": "https://iptv-org.github.io/iptv/index.region.m3u"
-        },
-        {
-            "type": "Worldwide",
-            "url": "https://iptv-org.github.io/iptv/regions/int.m3u"
-        },
-        {
-            "type": "All",
-            "url": "https://iptv-org.github.io/iptv/index.m3u"
-        },
-        {
-            "type": "Custom",
-            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_details.json"
         }
     ]
 }
