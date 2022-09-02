@@ -7,6 +7,126 @@
         {
             "type": "Tamil",
             "url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
+        },
+        {
+            "type": "Hindi",
+            "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+        },
+        {
+            "type": "Custom",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_details.json"
+        },
+        {
+            "type": "Indian",
+            "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
+        },
+        {
+            "type": "Auto",
+            "url": "https://iptv-org.github.io/iptv/categories/auto.m3u"
+        },
+        {
+            "type": "Animation",
+            "url": "https://iptv-org.github.io/iptv/categories/animation.m3u"
+        },
+        {
+            "type": "Business",
+            "url": "https://iptv-org.github.io/iptv/categories/business.m3u"
+        },
+        {
+            "type": "Classic",
+            "url": "https://iptv-org.github.io/iptv/categories/classic.m3u"
+        },
+        {
+            "type": "Comedy",
+            "url": "https://iptv-org.github.io/iptv/categories/comedy.m3u"
+        },
+        {
+            "type": "Cooking",
+            "url": "https://iptv-org.github.io/iptv/categories/cooking.m3u"
+        },
+        {
+            "type": "Culture",
+            "url": "https://iptv-org.github.io/iptv/categories/culture.m3u"
+        },
+        {
+            "type": "Documentary",
+            "url": "https://iptv-org.github.io/iptv/categories/comedy.m3u"
+        },
+        {
+            "type": "Education",
+            "url": "https://iptv-org.github.io/iptv/categories/education.m3u"
+        },
+        {
+            "type": "Entertainment",
+            "url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u"
+        },
+        {
+            "type": "Family",
+            "url": "https://iptv-org.github.io/iptv/categories/family.m3u"
+        },
+        {
+            "type": "General",
+            "url": "https://iptv-org.github.io/iptv/categories/general.m3u"
+        },
+        {
+            "type": "Kids",
+            "url": "https://iptv-org.github.io/iptv/categories/kids.m3u"
+        },
+        {
+            "type": "Legislative",
+            "url": "https://iptv-org.github.io/iptv/categories/legislative.m3u"
+        },
+        {
+            "type": "Lifestyle",
+            "url": "https://iptv-org.github.io/iptv/categories/lifestyle.m3u"
+        },
+        {
+            "type": "Movies",
+            "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+            "type": "Music",
+            "url": "https://iptv-org.github.io/iptv/categories/music.m3u"
+        },
+        {
+            "type": "News",
+            "url": "https://iptv-org.github.io/iptv/categories/news.m3u"
+        },
+        {
+            "type": "Outdoor",
+            "url": "https://iptv-org.github.io/iptv/categories/outdoor.m3u"
+        },
+        {
+            "type": "Relax",
+            "url": "https://iptv-org.github.io/iptv/categories/relax.m3u"
+        },
+        {
+            "type": "Religious",
+            "url": "https://iptv-org.github.io/iptv/categories/religious.m3u"
+        },
+        {
+            "type": "Series",
+            "url": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+            "type": "Science",
+            "url": "https://iptv-org.github.io/iptv/categories/science.m3u"
+        },
+        {
+            "type": "Shop",
+            "url": "https://iptv-org.github.io/iptv/categories/shop.m3u"
+        },
+        {
+            "type": "Sports",
+            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+        },
+        {
+            "type": "Travel",
+            "url": "https://iptv-org.github.io/iptv/categories/travel.m3u"
+        },
+        {
+            "type": "Weather",
+            "url": "https://iptv-org.github.io/iptv/categories/weather.m3u"
         }
     ]
 }
