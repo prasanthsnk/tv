@@ -1,26 +1,20 @@
 {
 	"customChannels": [
 		{
-		"channelName": "HBO HD",
-		"channelUrl": "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
-		"channelImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
-		"channelGroup": "Malayalam",
+		"channelName": "3 Tamil TV",
+		"channelUrl": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+		"channelImg": "https://i.imgur.com/WfAU7pB.png",
+		"channelGroup": "Entertainment",
 		"channelDrmKey": "",
 		"channelDrmType": ""
 	},
 		{
-		"channelName": "HBO HD",
-		"channelUrl": "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
-		"channelImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
-		"channelGroup": "Tamil",
+		"channelName": "Sana TV",
+		"channelUrl": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
+		"channelImg": "https://i.imgur.com/D03gyp2.png",
+		"channelGroup": "Entertainment",
 		"channelDrmKey": "",
 		"channelDrmType": ""
-	},{
-		"channelName": "HBO HD_ hh",
-		"channelUrl": "http://103.3.229.147:8084/r_suntv/01.m3u8",
-		"channelImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
-		"channelGroup": "Movies English",
-		"channelDrmKey": "",
-		"channelDrmType": ""
-	}]
+	}
+	]
 }
