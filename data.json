@@ -40,10 +40,6 @@
 			"url": "https://iptv-org.github.io/iptv/index.m3u"
 		},
 		{
-			"type": "Custom",
-			"url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_details.json"
-		},
-		{
 			"type": "YouTube",
 			"url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/youtube.json"
 		}
