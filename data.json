@@ -50,6 +50,10 @@
 		{
 			"type": "Sports",
 			"url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/sports.json"
-		}
+		},
+		 {
+		 "type": "Raw",
+			 "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_channels_Alimz57_K4HZrvPhM.m3u"
+		 }
 	]
 }
