@@ -4,11 +4,5 @@
 		"channelImg": "",
 		"channelName": "Willo Cricket",
 		"channelUrl": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/L2EHgIioUMrJPcI8K8QC_wW2MXEtSZSowZconUR0etukqlWyXbojS4A9kUCWNrgk-6oJ8XEmVfAHkRvB8ju3Rw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live"
-	},
-	{
-		"channelGroup": "Cricket",
-		"channelImg": "",
-		"channelName": "Nepal T20 Cricket",
-		"channelUrl": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/EQSHmvAYcbWpmAjcEMA1VH-H-U7XlJMMrQCobh0i95bpL_BX656unl_Ltw1jwB7Fi0IC5SEbmjji01klBx6obg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live"
-	}]
+	} ]
 }
