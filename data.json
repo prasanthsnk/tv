@@ -1,55 +1,57 @@
 {
-	"menu": [{
-			"type": "Malayalam",
-			"url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
-		},
-		{
-			"type": "Tamil",
-			"url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
-		},
-		{
-			"type": "Hindi",
-			"url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
-		},
-		{
-			"type": "Indian",
-			"url": "https://iptv-org.github.io/iptv/countries/in.m3u"
-		},
-		{
-			"type": "Category",
-			"url": "https://iptv-org.github.io/iptv/index.category.m3u"
-		},
-		{
-			"type": "Country",
-			"url": "https://iptv-org.github.io/iptv/index.country.m3u"
-		},
-		{
-			"type": "Language",
-			"url": "https://iptv-org.github.io/iptv/index.language.m3u"
-		},
-		{
-			"type": "Region",
-			"url": "https://iptv-org.github.io/iptv/index.region.m3u"
-		},
-		{
-			"type": "Worldwide",
-			"url": "https://iptv-org.github.io/iptv/regions/int.m3u"
-		},
-		{
-			"type": "All",
-			"url": "https://iptv-org.github.io/iptv/index.m3u"
-		},
-		{
-			"type": "UHD",
-			"url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/uhd.json"
-		},
-		{
-			"type": "YouTube",
-			"url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
-		},
-		{
-			"type": "Sports",
-			"url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/sports.json"
-		}
-	]
+    "addProp": "show",
+    "menu": [
+        {
+            "type": "Malayalam",
+            "url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
+        },
+        {
+            "type": "Tamil",
+            "url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
+        },
+        {
+            "type": "Hindi",
+            "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+        },
+        {
+            "type": "Indian",
+            "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
+        },
+        {
+            "type": "Category",
+            "url": "https://iptv-org.github.io/iptv/index.category.m3u"
+        },
+        {
+            "type": "Country",
+            "url": "https://iptv-org.github.io/iptv/index.country.m3u"
+        },
+        {
+            "type": "Language",
+            "url": "https://iptv-org.github.io/iptv/index.language.m3u"
+        },
+        {
+            "type": "Region",
+            "url": "https://iptv-org.github.io/iptv/index.region.m3u"
+        },
+        {
+            "type": "Worldwide",
+            "url": "https://iptv-org.github.io/iptv/regions/int.m3u"
+        },
+        {
+            "type": "All",
+            "url": "https://iptv-org.github.io/iptv/index.m3u"
+        },
+        {
+            "type": "UHD",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/uhd.json"
+        },
+        {
+            "type": "YouTube",
+            "url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
+        },
+        {
+            "type": "Sports",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/sports.json"
+        }
+    ]
 }
