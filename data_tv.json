@@ -14,7 +14,7 @@
         }, 
 	{
             "type": "Custom_Ind",
-            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio_custom.m3u"
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio_custom.json"
         },
         {
             "type": "Custom",
