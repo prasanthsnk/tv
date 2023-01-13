@@ -46,5 +46,30 @@
 		"channelGroup": "Entertainment",
 		"channelDrmKey": "",
 		"channelDrmType": ""
-	}]
+	},
+		{
+		"channelName": "Discovery",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2857",
+		"channelImg": "",
+		"channelGroup": "Entertainment",
+		"channelDrmKey": "",
+		"channelDrmType": ""
+	},
+		{
+		"channelName": "Jaya Tv",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/6005",
+		"channelImg": "",
+		"channelGroup": "Entertainment",
+		"channelDrmKey": "",
+		"channelDrmType": ""
+	},
+		{
+		"channelName": "Jaya Tv",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/6005",
+		"channelImg": "",
+		"channelGroup": "Entertainment",
+		"channelDrmKey": "",
+		"channelDrmType": ""
+	}
+	]
 }
