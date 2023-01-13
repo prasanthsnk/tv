@@ -54,7 +54,7 @@
             "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/sports.json"
         },
         {
-            "type": "Custom",
+            "type": "Custom_TV",
             "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio.m3u"
         }
     ]
