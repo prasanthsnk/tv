@@ -55,7 +55,7 @@
         },
         {
             "type": "Custom",
-            "url": "https://github.com/prasanthsnk/tv/edit/main/jio.m3u"
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio.m3u"
         }
     ]
 }
