@@ -23,7 +23,7 @@
         },
         {
             "type": "Custom Indian",
-            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio_indian.m3u"
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio_custom.json"
         },
         {
             "type": "Category",
