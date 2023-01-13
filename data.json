@@ -18,6 +18,10 @@
             "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
         },
         {
+            "type": "Custom",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_details.json"
+        },
+        {
             "type": "Custom Indian",
             "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio_indian.m3u"
         },
