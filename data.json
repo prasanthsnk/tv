@@ -20,7 +20,7 @@
         {
             "type": "Custom Indian",
             "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio_indian.m3u"
-        }
+        },
         {
             "type": "Category",
             "url": "https://iptv-org.github.io/iptv/index.category.m3u"
