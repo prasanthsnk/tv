@@ -48,14 +48,6 @@
         {
             "type": "YouTube",
             "url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
-        },
-        {
-            "type": "Sports",
-            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/sports.json"
-        },
-        {
-            "type": "Custom_TV",
-            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio.m3u"
         }
     ]
 }
