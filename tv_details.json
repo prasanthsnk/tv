@@ -23,7 +23,7 @@
 		"channelDrmKey": "",
 		"channelDrmType": ""
 	},
-	]
+	
 		{
 		"channelName": "Sun Music",
 		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4739",
@@ -46,5 +46,5 @@
 		"channelGroup": "Entertainment",
 		"channelDrmKey": "",
 		"channelDrmType": ""
-	},
+	}]
 }
