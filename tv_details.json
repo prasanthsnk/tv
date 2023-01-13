@@ -11,18 +11,40 @@
 		{
 		"channelName": "AsiaNet Plus",
 		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1354",
-		"channelImg": "https://i.imgur.com/D03gyp2.png",
+		"channelImg": "",
+		"channelGroup": "Entertainment",
+		"channelDrmKey": "",
+		"channelDrmType": ""
+	},{
+		"channelName": "Surya Tv",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43590",
+		"channelImg": "",
+		"channelGroup": "Entertainment",
+		"channelDrmKey": "",
+		"channelDrmType": ""
+	},
+	]
+		{
+		"channelName": "Sun Music",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4739",
+		"channelImg": "",
 		"channelGroup": "Entertainment",
 		"channelDrmKey": "",
 		"channelDrmType": ""
 	},
 		{
-		"channelName": "AsiaNet Plus",
-		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1354",
-		"channelImg": "https://i.imgur.com/D03gyp2.png",
+		"channelName": "Sun TV",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1348",
+		"channelImg": "http://tugapt.com/picons/suntvhd.png",
 		"channelGroup": "Entertainment",
 		"channelDrmKey": "",
 		"channelDrmType": ""
-	}
-	]
+	},{
+		"channelName": "Zee Cinema",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/6015",
+		"channelImg": "http://tugapt.com/picons/zeecinemahd.png",
+		"channelGroup": "Entertainment",
+		"channelDrmKey": "",
+		"channelDrmType": ""
+	},
 }
