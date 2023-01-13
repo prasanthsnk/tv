@@ -11,6 +11,10 @@
         {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+        }, 
+	{
+            "type": "Custom_Ind",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio_custom.m3u"
         },
         {
             "type": "Custom",
