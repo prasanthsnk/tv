@@ -1,0 +1,423 @@
+{
+	"customChannels": [{
+		"channelGroup": "World",
+		"channelImg": " ",
+		"channelName": "Discovery IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2857"
+	}, {
+		"channelGroup": "India",
+		"channelImg": " ",
+		"channelName": "IBN 7 IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4721"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Ten Action IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2808"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "TEN 1 HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2809"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Star Sports 1 IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2813"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Star Sports 2 IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2812"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Star Sports 3 IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2811"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Eleven Sport Network Asia IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1340"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Ten Cricket HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2807"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Star Sports 1 HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1344"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Star Sports 2 HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1343"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Star Sports 3 HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1342"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "TEN Golf HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2806"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Ten Sports IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2805"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "Willow Cricket IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2798"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Jaya TV UK IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/6005"
+	}, {
+		"channelGroup": "Malayalam",
+		"channelImg": " ",
+		"channelName": "Kairali IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4724"
+	}, {
+		"channelGroup": "Malayalam",
+		"channelImg": " ",
+		"channelName": "AsiaNet IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1355"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Star Vijay IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2855"
+	}, {
+		"channelGroup": "Movie",
+		"channelImg": " ",
+		"channelName": "Star Movies Action IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2859"
+	}, {
+		"channelGroup": "Malayalam",
+		"channelImg": " ",
+		"channelName": "AsiaNet Plus IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1354"
+	}, {
+		"channelGroup": "Malayalam",
+		"channelImg": " ",
+		"channelName": "Janam TV 2 IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2804"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Polimer TV IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2800"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Jaya Movies HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2790"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": "http://tugapt.com/picons/zeetv.png ",
+		"channelName": "Zee TV IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2788"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Zee Tamil IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2786"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": "http://tugapt.com/picons/suntvhd.png ",
+		"channelName": "Sun TV HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1348"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": " ",
+		"channelName": "Star Plus HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1349"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": " ",
+		"channelName": "Star Gold HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1350"
+	}, {
+		"channelGroup": "Movie",
+		"channelImg": " ",
+		"channelName": "Star Movies HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2818"
+	}, {
+		"channelGroup": "India",
+		"channelImg": " ",
+		"channelName": "Sony TV HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1351"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Jaya Movies IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/1353"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "KTV USA IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4730"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Star Pravah IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4754"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Jaya Max 2 IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4736"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Jaya Plus IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4737"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Jaya TV USA IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4738"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Puthiya IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4723"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "RAJ Digital Plus IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4761"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "RAJ Musix IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4731"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "RAJ TV IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/4729"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Raj Digital Plus UK IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/6009"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Raj TV UK IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/6008"
+	}, {
+		"channelGroup": "Anime",
+		"channelImg": "http://tugapt.com/picons/nickelodeonuk.png ",
+		"channelName": "Sonic Nickelodeon IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2824"
+	}, {
+		"channelGroup": "Food",
+		"channelImg": " ",
+		"channelName": "Food Food IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2853"
+	}, {
+		"channelGroup": "Anime",
+		"channelImg": "http://tugapt.com/picons/nickelodeonuk.png ",
+		"channelName": "Nickelodeon IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2833"
+	}, {
+		"channelGroup": "Anime",
+		"channelImg": " ",
+		"channelName": "Pogo TV IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2839"
+	}, {
+		"channelGroup": "Anime",
+		"channelImg": " ",
+		"channelName": "Nick Jr IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2834"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": "http://tugapt.com/picons/sonyentertainment.png ",
+		"channelName": "Sony HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/15884"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "Zee TV HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/9519"
+	}, {
+		"channelGroup": "World",
+		"channelImg": "http://tugapt.com/picons/animalplanethd.png ",
+		"channelName": "Animal Planet HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16015"
+	}, {
+		"channelGroup": "World",
+		"channelImg": "http://tugapt.com/picons/discoverykids.png ",
+		"channelName": "Discovery Kids IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16024"
+	}, {
+		"channelGroup": "World",
+		"channelImg": "http://tugapt.com/picons/discoveryscience.png ",
+		"channelName": "Discovery Science IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16011"
+	}, {
+		"channelGroup": "World",
+		"channelImg": "http://tugapt.com/picons/discoveryturbo.png ",
+		"channelName": "Discovery Turbo IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16010"
+	}, {
+		"channelGroup": "World",
+		"channelImg": "http://tugapt.com/picons/discoveryworldhd.png ",
+		"channelName": "Discovery World HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16014"
+	}, {
+		"channelGroup": "India",
+		"channelImg": "httpHinditugapt.com/picons/sonymax.png ",
+		"channelName": "Sony MAX IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16036"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": "http://tugapt.com/picons/sonyten1hd.png ",
+		"channelName": "Sony Ten 1 FHD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16041"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": "http://tugapt.com/picons/sonytv.png ",
+		"channelName": "Sony TV IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16037"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": "http://tugapt.com/picons/sonywah.png ",
+		"channelName": "Sony WAH IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16039"
+	}, {
+		"channelGroup": "Movies",
+		"channelImg": "http://tugapt.com/picons/starmovies.png ",
+		"channelName": "Star Movies IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16019"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": "http://tugapt.com/picons/starutsav.png ",
+		"channelName": "Star Utsav IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16018"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": " ",
+		"channelName": "Sony YAY IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/24717"
+	}, {
+		"channelGroup": "Travel",
+		"channelImg": "http://tugapt.com/picons/travelxp.png ",
+		"channelName": "Travel XP HD IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16013"
+	}, {
+		"channelGroup": "Cinema",
+		"channelImg": "http://tugapt.com/picons/wowcinema.png ",
+		"channelName": "WOW Cinema IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/16026"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "SONY SIX HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43597"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "SONY TEN2 HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43595"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "STAR VIJAY HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43604"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "ZEE HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43626"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": " ",
+		"channelName": "STAR GOLD FHD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43622"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": " ",
+		"channelName": "SONY SAB FHD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43620"
+	}, {
+		"channelGroup": "India",
+		"channelImg": " ",
+		"channelName": "COLORS HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43615"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": " ",
+		"channelName": "STAR GOLD SELECT HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43612"
+	}, {
+		"channelGroup": "Hindi",
+		"channelImg": " ",
+		"channelName": "STAR PLUS HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43611"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "STAR SPORTS 1 HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43609"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "STAR SPORTS 1 HINDI HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43608"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "STAR SPORTS 2 HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43607"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "STAR SPORTS SELECT 1 FHD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43606"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "STAR SPORTS SELECT 2 FHD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43605"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "D SPORTS VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43599"
+	}, {
+		"channelGroup": "Malayalam",
+		"channelImg": " ",
+		"channelName": "ASIANET HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43598"
+	}, {
+		"channelGroup": "Sports",
+		"channelImg": " ",
+		"channelName": "SONY TEN1 HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43596"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "SUN MUSIC HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43592"
+	}, {
+		"channelGroup": "Tamil",
+		"channelImg": " ",
+		"channelName": "SUN TV HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43591"
+	}, {
+		"channelGroup": "Malayalam",
+		"channelImg": " ",
+		"channelName": "SURYA TV HD VIP IN ",
+		"channelUrl": "http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43590"
+	}]
+}
