@@ -6,8 +6,16 @@
             "url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
         },
         {
+            "type": "Vip Malayalam",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_malayalam.m3u"
+        },
+        {
             "type": "Tamil",
             "url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
+        },
+        {
+            "type": "Vip Tamil",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_tamil.m3u"
         },
         {
             "type": "Hindi",
@@ -16,6 +24,14 @@
         {
             "type": "Indian",
             "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
+        },
+        {
+            "type": "Vip Sports",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_sports.m3u"
+        },
+         {
+            "type": "Vip Others",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_others.m3u"
         },
         {
             "type": "Custom",
