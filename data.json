@@ -18,20 +18,20 @@
             "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_tamil.m3u"
         },
         {
-            "type": "Hindi",
-            "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
-        },
-        {
-            "type": "Indian",
-            "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
-        },
-        {
             "type": "Vip Sports",
             "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_sports.m3u"
         },
          {
             "type": "Vip Others",
             "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_others.m3u"
+        },
+        {
+            "type": "Hindi",
+            "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+        },
+        {
+            "type": "Indian",
+            "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
         },
         {
             "type": "Custom",
